@@ -1,0 +1,22 @@
+{
+  "name": "node.js_pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeyonghe/Node.js_Pattern.git"
+  },
+  "author": "davidlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leeyonghe/Node.js_Pattern/issues"
+  },
+  "homepage": "https://github.com/leeyonghe/Node.js_Pattern#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
