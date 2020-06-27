@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/leeyonghe/Node.js_Pattern#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "@hapi/basic": "^6.0.0",
+    "@hapi/hapi": "^19.1.1",
+    "@hapi/joi": "^17.1.1",
+    "express": "^4.17.1",
+    "sequelize": "^6.2.2"
   }
 }
